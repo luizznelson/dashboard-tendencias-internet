@@ -41,6 +41,7 @@ Análise visual, estatística e preditiva do consumo de internet ao longo de um 
    ```
 
 ## 🗂️ Estrutura do Projeto
+
 dashboard-tendencias-internet/
 │
 ├── data/            # Base de dados simulada
