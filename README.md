@@ -2,7 +2,7 @@
 
 Análise visual, estatística e preditiva do consumo de internet ao longo de um ano, com dashboard interativo em **Streamlit**.
 
-![Demo do dashboard](./imgs/p3.png)
+![Demo do dashboard](./imgs/p1.png)
 
 ## ✨ Funcionalidades
 
@@ -13,9 +13,12 @@ Análise visual, estatística e preditiva do consumo de internet ao longo de um 
 
 ## 🚀 Demonstração
 
-<sub>Exemplo visual do dashboard em execução:</sub>
+Exemplo visual do dashboard em execução:
 
 ![Screenshot do Dashboard](./imgs/p1.png)
+![Screenshot do Dashboard](./imgs/p2.png)
+![Screenshot do Dashboard](./imgs/p3.png)
+![Screenshot do Dashboard](./imgs/p4.png)
 
 > Sinta-se à vontade para baixar o repositório, rodar localmente e testar!
 
