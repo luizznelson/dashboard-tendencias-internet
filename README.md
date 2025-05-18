@@ -42,6 +42,7 @@ Análise visual, estatística e preditiva do consumo de internet ao longo de um 
 
 ## 🗂️ Estrutura do Projeto
 
+```bash
 dashboard-tendencias-internet/
 │
 ├── data/            # Base de dados simulada
@@ -50,6 +51,7 @@ dashboard-tendencias-internet/
 ├── imgs/            # Imagens e screenshots para documentação
 ├── requirements.txt
 └── README.md
+```
 
 ## 🛠️ Tecnologias Utilizadas:
 - Python
